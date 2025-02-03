@@ -7,9 +7,8 @@
   <a href="https://kabirdev.com/"> <img src="assets/WEBSITE.svg" alt="" height="35px" width="auto"></a>
   <a href="https://www.linkedin.com/in/shahriarkabir/"> <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
 </div>
-<br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriarkabir&theme=highcontrast&hide_border=true&border_radius=4.3&card_width=600)](https://git.io/streak-stats)
+<br>
 
 ### From Developer to Entrepreneur
 I've spent over a decade building innovative solutions in the e-commerce space, specializing in Shopify and WordPress development. While I started as a hands-on coder, my journey has evolved into leading and managing developers, overseeing product development, and running a successful business. Most of my repositories are private, reflecting my work on proprietary client projects and internal tools.
@@ -46,24 +45,3 @@ Most of my work is private, spanning Shopify apps, WooCommerce plugins, and ente
 - **PayRules - Conditional Payment Methods**
 
 If you're interested in collaborating or learning more, feel free to connect with me!
-
----
-
-<table>
-<tbody>
-<tr>
-<td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir&layout=donut&theme=dark)
-
-</td>
-
-<td>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarkabir&show_icons=true&theme=dark)
-
-</td>
-</tr>
-
-</tbody>
-</table>
