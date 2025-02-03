@@ -19,7 +19,7 @@
 
 ### **Instruments of Creation**
 <div style="display:flex">
-  <img alt="" height="60px" width="60px"   src="assets/tech/ShopifyNew.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Shopify.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/WordPress.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/PHP.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/Laravel.svg"/>
