@@ -11,7 +11,7 @@
 
 <br>
 
-## **Wait, Where Are My <span style="color:#ff5733; font-weight:bold;">🔥 REAL 🔥</span> Repos?**
+## **Wait, Where Are My 🔥 `REAL` 🔥 Repos?**
 > **Spoiler Alert:** They're probably private. I build top-secret e-commerce stuff. **Yes, I code. Yes, I've got receipts.**
 
 ## **A Little About Me**
