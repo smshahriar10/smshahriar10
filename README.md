@@ -1,5 +1,5 @@
 # SHAHRIAR KABIR
-### Founder at KlinKode | From Developer to Entrepreneur
+### Founder at KlinKode | Once a Developer, Always a Problem Solver
 
 <br>
 
@@ -21,10 +21,10 @@
 <div style="display:flex">
   <img alt="" height="60px" width="60px"   src="assets/tech/Shopify.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/WordPress.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/PHP.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/Laravel.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/JavaScript.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/React.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/PHP.png"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/MySQL.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/VisualStudio.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/Git.svg"/>
